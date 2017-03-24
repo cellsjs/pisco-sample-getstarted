@@ -1,0 +1,28 @@
+{
+  "name": "pisco-sample",
+  "version": "0.1.0",
+  "description": "My first recipe",
+  "main": "bin/pisco.js",
+  "bin": {
+    "recipe-sample": "bin/pisco.js"
+  },
+  "scripts": {
+    "deps": "npm install",
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "piscosour-recipe"
+  ],
+  "license": "Apache Licence",
+  "preferGlobal": true,
+  "dependencies": {
+    "piscosour": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
