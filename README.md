@@ -39,7 +39,6 @@ Finally we ccan run the sonar-scanner command:
 sonar-scanner -Dsonar.projectKey=pisco-sample-getstarted -Dsonar.sources=. -Dsonar.exclusions=**/node_modules/**,**/test/** -Dsonar.javascript.lcov.reportPaths=reports/lcov.info
 ```
 Unfortunately, we can not get a coverage report becasuse we hace the tests written in a functional way (invoking node commands) other than invoking the Javascript API.
-## Documentation
 
 
 [1]: http://xseignard.github.io/2013/04/25/quality-analysis-on-node.js-projects-with-mocha-istanbul-and-sonar/
