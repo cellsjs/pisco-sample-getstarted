@@ -123,7 +123,7 @@ INFO: Total time: 6.093s
 INFO: Final Memory: 47M/419M
 INFO: ------------------------------------------------------------------------
 ```
-If we go to the project main page we can see all the parameters sonarwube has analyzed:
+If we go to the project main page we can see all the parameters sonarqube has analyzed:
 ![Sonar project main page](/docs/images/pisco-sample-getstarted-sonarqube-main-page.png)
 
 [1]: http://xseignard.github.io/2013/04/25/quality-analysis-on-node.js-projects-with-mocha-istanbul-and-sonar/
