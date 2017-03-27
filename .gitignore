@@ -32,3 +32,5 @@ scullion.json
 
 /.project
 /.tern-project
+/.scannerwork/
+/reports/
