@@ -14,9 +14,9 @@ workspace::create
 instabul cover myNodeCommand
 ```
 
-##Creating the project
+## Creating the project
 
-##Analyze project with Sonarqube
+## Analyze project with Sonarqube
 The documentation of this section has been extracted from [this website.][1]
 The limitations of this section (for other projeccts):
 > - It has to be a node.js project
@@ -36,7 +36,7 @@ This instruction means that you are going to launch istanbul cover command with 
 
 ![Command line editor](/docs/images/istanbul-command-pisco-sample-getstarted-project.png)
 
-##Documentation
+## Documentation
 
 
 [1]: http://xseignard.github.io/2013/04/25/quality-analysis-on-node.js-projects-with-mocha-istanbul-and-sonar/
