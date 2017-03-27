@@ -9,11 +9,11 @@ The first thing we have to do is to create our workspace for cells:
 ```
 workspace::create
 ```
-```x-sh
-instabul cover myNodeCommand
-```
 
 ## Creating the project
+In order to create the project, we follow the documentation of cells.
+ - [Installation](https://bbva.cellsjs.com/guides/support/installation.html)
+ - [Get started](https://github.com/cellsjs/piscosour/blob/feature/generate_docs/doc/get_started.md)
 
 ## Analyze project with Sonarqube
 The documentation of this section has been extracted from [this website.][1]
