@@ -3,7 +3,7 @@ const path = require('path');
 const process = require('process');
 
 const _isWorldFolder = function() {
-    let dir = process.cwd().split(path.sep);
+    const dir = process.cwd().split(path.sep);
     return dir[dir.length - 1] === 'world';
 }
 
