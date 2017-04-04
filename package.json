@@ -1,6 +1,6 @@
 {
   "name": "pisco-sample",
-  "version": "0.1.0",
+  "version": "0.1.1-beta.0",
   "description": "My first recipe",
   "main": "bin/pisco.js",
   "bin": {
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "chai": "*",
-    "mocha": "*",
+    "mocha": "^3.2.0",
     "xunit-file": "^1.0.0"
   },
   "engines": {
